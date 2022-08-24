@@ -1,0 +1,6 @@
+speechbrain
+webvtt-py
+youtube-dl
+scikit-learn
+inaSpeechSegmenter 
+librosa
